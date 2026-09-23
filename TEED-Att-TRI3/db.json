@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "System",
+      "tipo": 1,
+      "email": "system@ifc.com.br",
+      "senha": "123"
+    },
+    {
+      "nome": "Administrador",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "_m0333U-95U"
+    },
+    {
+      "nome": "Administrador",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "KXjnWRySRu8"
+    },
+    {
+      "nome": "oi",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "sXtCeRZidFU"
+    },
+    {
+      "nome": "oi",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "TYF1Sw_tSIo"
+    },
+    {
+      "nome": "alana",
+      "tipo": "1",
+      "email": "a@gmail.com",
+      "senha": "123",
+      "id": "s6sd3Ksz66s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
